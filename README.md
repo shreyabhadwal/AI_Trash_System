@@ -16,7 +16,7 @@ This repository highlights an approach for a computer vision-based system which 
 
 ## Hardware Implementation 
 
-<img src="https://user-images.githubusercontent.com/80118039/170724519-8d221bbe-6dee-4048-b766-2cf4bb31601d.jpg" width="48">
+<img src="https://user-images.githubusercontent.com/80118039/170724519-8d221bbe-6dee-4048-b766-2cf4bb31601d.jpg" width="500">
 
 ## Results
 
