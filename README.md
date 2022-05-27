@@ -1,5 +1,7 @@
 # AI_Trash_System
 
+This documentation is about an upcoming research-work publication. 
+
 ## Introduction
 
 Countries around the world struggle with the problem of waste recycling and management. This repository outlines an approach for a computer vision-based system which detects and classifies waste into various recyclable and non-recyclable categories.
@@ -12,3 +14,21 @@ This repository highlights an approach for a computer vision-based system which 
 
 ![image](https://user-images.githubusercontent.com/80118039/170722429-64dbd679-02f4-41d2-9386-13f2c854452f.png)
 
+## Hardware Implementation 
+
+![20220512_230145](https://user-images.githubusercontent.com/80118039/170724519-8d221bbe-6dee-4048-b766-2cf4bb31601d.jpg)
+
+## Results
+
+The system works with an 61% accuracy, which is a good accuracy for object detection models. 
+
+![image](https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png)
+Detecting metal in the image frame
+
+![image](https://user-images.githubusercontent.com/80118039/170724674-281d0e52-4b01-4d4f-801f-00a1228aa2cc.png)
+Detecting plastic in the image frame
+
+## References
+
+1. https://tfhub.dev/tensorflow/efficientdet/lite0/detection/
+2. https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi
