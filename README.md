@@ -25,7 +25,7 @@ The system works with an 61% accuracy, which is a good accuracy for object detec
 <img src="https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png" width="400">
 Detecting metal in the image frame
 
-<img src="https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png" width="400">
+<img src="https://user-images.githubusercontent.com/80118039/170726413-570cf274-939a-4243-a9ae-7e8a4941d758.png" width="400">
 Detecting plastic in the image frame
 
 ## References
