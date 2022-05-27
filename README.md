@@ -16,16 +16,16 @@ This repository highlights an approach for a computer vision-based system which 
 
 ## Hardware Implementation 
 
-<img src="https://user-images.githubusercontent.com/80118039/170724519-8d221bbe-6dee-4048-b766-2cf4bb31601d.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/80118039/170724519-8d221bbe-6dee-4048-b766-2cf4bb31601d.jpg" width="400">
 
 ## Results
 
 The system works with an 61% accuracy, which is a good accuracy for object detection models. 
 
-![image](https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png = 250x250)
+<img src="https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png" width="400">
 Detecting metal in the image frame
 
-![image](https://user-images.githubusercontent.com/80118039/170724674-281d0e52-4b01-4d4f-801f-00a1228aa2cc.png | width=75)
+<img src="https://user-images.githubusercontent.com/80118039/170724627-e868e19a-7df3-4400-928a-0a2f266b1992.png" width="400">
 Detecting plastic in the image frame
 
 ## References
